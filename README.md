@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 
 ---
 
@@ -54,7 +54,7 @@
     ## 📂 Project Structure
 
     ```
-    coral-reef-health-classification/
+    ReefHealth-AI/
     ├── notebooks/
     │   └── DL_project.ipynb          # Main notebook with full pipeline
     ├── src/
@@ -68,34 +68,6 @@
     ├── requirements.txt
     ├── .gitignore
     └── README.md
-    ```
-
-    ---
-
-    ## 🚀 Getting Started
-
-    ### 1. Clone the repo
-    ```bash
-    git clone https://github.com/thanuj123455/coral-reef-health-classification.git
-    cd coral-reef-health-classification
-    ```
-
-    ### 2. Install dependencies
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-    ### 3. Set up your dataset
-    Download the dataset and update the paths in `notebooks/DL_project.ipynb`:
-    ```python
-    train_dir = "data/Training"
-    validation_dir = "data/Validation"
-    test_dir = "data/Testing"
-    ```
-
-    ### 4. Run the notebook
-    ```bash
-    jupyter notebook notebooks/DL_project.ipynb
     ```
 
     ---
@@ -118,17 +90,4 @@
     - **Evaluation**: scikit-learn, matplotlib, seaborn
     - **Data**: NumPy, Pandas, Keras ImageDataGenerator
 
-    ---
-
-    ## 👤 Author
-
-    **Thanuj Raja**
-    - GitHub: [@thanuj123455](https://github.com/thanuj123455)
-    - LinkedIn: [raja-thanuj-118b68254](https://www.linkedin.com/in/raja-thanuj-118b68254)
-    - Email: thanujraja@gmail.com
-
-    ---
-
-    ## 📄 License
-
-    This project is licensed under the MIT License.
+    
